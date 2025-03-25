@@ -1,3 +1,8 @@
+// Author: Riley Benson
+// Course: COMP-003B
+// Faculty: Jonathan Cruz
+// Purpose: Working on Middleware in ASP.NET Core
+
 namespace COMP003B.LectureActivity2
 {
 	public class Program
